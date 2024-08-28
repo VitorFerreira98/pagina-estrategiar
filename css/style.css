@@ -609,7 +609,7 @@ span {
 }
  
 /* RESPONSIVE */
-@media (max-width: 2560px){
+@media (min-width: 2560px){
     .home-img img {
         position: relative;
         bottom: 52px;
